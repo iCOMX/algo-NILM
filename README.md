@@ -16,7 +16,7 @@ To-Be-Done:
 <br/>
 Upload protodevice collected data from 2008-2018.
 <br/>
-Update code comments to English.
+Change code comments to English.
 
 <br/>
 
