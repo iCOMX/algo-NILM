@@ -8,7 +8,7 @@ Embedded algorithms include basic unsupervised and supervised machine learning t
 
 A working prototype was realized with an ARTILA ARM-linux development card together with a custom photodiode circuit triggering on output of the powermeter (1k pulse/kWh). In addition, a 1-wire network support with "hot-pluggable" onewire temperature sensors is included. 
 
-The user interface is provided by an embedded web-server (Javascript front end, PHP + C++ back end). A SQL-database (SQLite3) is used for saving the measurement data.
+The user interface is provided by an embedded web-server (Javascript front end, PHP & C++ back end). A SQL-database (SQLite3) is used for saving the measurement data.
 
 <br/>
 
