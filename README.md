@@ -10,6 +10,7 @@ A working prototype was realized with an ARTILA ARM-linux development card toget
 Embedded algorithms include basic unsupervised and supervised machine learning techniques, linear and non-linear signal processing and genetic algorithm type optimization.
 
 <b>Mikael Mieskolainen, 2008-2009</b>
+
 <br/>
 
 To-Be-Done:
