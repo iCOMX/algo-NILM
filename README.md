@@ -4,7 +4,7 @@
 <b>Algorithmic Non-Intrusive Load Monitoring Prototype for (embedded) Linux systems</b>
 <br/>
 
-Embedded algorithms include basic unsupervised and supervised machine learning techniques (K-means, Fuzzy K-means, EM-clustering, Bayes classifier), linear and non-linear signal processing (filtering, edge detection) and genetic algorithm type optimization for creating a finite state machine. The basic idea was pioneered by Hart, MIT.
+Embedded algorithms include basic unsupervised and supervised machine learning techniques (K-means, Fuzzy K-means, EM-clustering, Bayes classifier), linear and non-linear signal processing (filtering, edge detection) and genetic algorithm type optimization for creating a finite state machine. The basic idea was pioneered by <a href="https://en.wikipedia.org/wiki/Nonintrusive_load_monitoring">G.W Hart, MIT</a>.
 
 A working prototype was realized with an ARTILA ARM-linux development card together with a custom photodiode circuit triggering on the optical output of a standard household energy meter (1k pulses/kWh). In addition, a 1-wire network support with "hot-plugging" onewire temperature sensors is included. The user interface is provided by an embedded web-server (Javascript front end, PHP & C++ back end). An  SQL-database (SQLite3) is used for saving the measurement data. 
 
