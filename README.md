@@ -1,4 +1,4 @@
-# deltaBox-NILM
+# algo-NILM
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <b>Algorithmic Non-Intrusive Load Monitoring Prototype for (embedded) Linux systems</b>
