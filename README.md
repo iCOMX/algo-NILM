@@ -8,7 +8,7 @@ Embedded algorithms include basic unsupervised and supervised machine learning t
 
 A working prototype was realized with an ARTILA ARM-linux development card together with a custom photodiode circuit triggering on the optical output of a standard household energy meter (1k pulses/kWh). In addition, a 1-wire network support with "hot-plugging" onewire temperature sensors is included. The user interface is provided by an embedded web-server (Javascript front end, PHP & C++ back end). An  SQL-database (SQLite3) is used for saving the measurement data. 
 
-The prototype was introduced and awarded in 2009 in technical innovation competition IIDA09 at Tampere University of Technology, Finland.
+The prototype was introduced and awarded in 2009 in a technical innovation competition IIDA09 at Tampere University of Technology, Finland.
 
 <br/>
 
